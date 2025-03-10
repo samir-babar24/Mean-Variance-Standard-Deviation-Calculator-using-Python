@@ -1,2 +1,3 @@
-# Mean-Variance-Standard-Deviation-Calculator-using-Python
-A Python-based project that computes mean, variance, and standard deviation for a given set of numbers. It processes data efficiently using NumPy and Pandas, helping in statistical analysis and data science applications. This calculator is useful for understanding data distribution, variability, and central tendency in datasets. 🚀
+# Mean-Variance-Standard Deviation Calculator
+
+This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
